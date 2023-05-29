@@ -89,22 +89,14 @@ Step10. Double click on the the MCU part to open settings. Next to the Program F
  
 Step14. click on debug and simulate using simulation as shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/b8efbfc2-f0c5-4106-8117-3a6e7ac87f6c)
-
-
  
-
-  
-
 ## STM 32 CUBE PROGRAM :
+```
 
 
-
-
-
+```
 ## Output screen shots of proteus  :
- 
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
@@ -114,6 +106,7 @@ TON =
 TOFF=
 TOTAL TIME = 
 FREQUENCY = 1/(TOTAL TIME)
+![500](https://github.com/lokeshrahulv/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118423842/42c2e775-dc7c-4f6c-bef2-6d060cbefb9d)
 
 FOR PULSE AT 700
 
@@ -121,6 +114,7 @@ TON =
 TOFF=
 TOTAL TIME = 
 FREQUENCY = 1/(TOTAL TIME)
+![700](https://github.com/lokeshrahulv/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118423842/d8a3edb5-5af9-4c58-b3f1-ee5782b255de)
 
 
 FOR PULSE AT 900
@@ -129,6 +123,7 @@ TON =
 TOFF=
 TOTAL TIME = 
 FREQUENCY = 1/(TOTAL TIME)
+![900](https://github.com/lokeshrahulv/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118423842/e048f525-a8be-46dc-a52f-9e7a8072cfe6)
 
 
 ## Result :
